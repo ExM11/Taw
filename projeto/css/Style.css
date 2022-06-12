@@ -1,4 +1,12 @@
-﻿body{background-color:#808080}
+﻿body{
+	background-color:gray
+}
+
+ main {
+     min-windht: 320px;
+     max-width: 800px;
+     margin: auto:
+ }
 
 #banner {
 	width: 100%;
